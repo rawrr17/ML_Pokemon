@@ -29,9 +29,15 @@ The final output is saved in a CSV file (`model.csv`) with the following columns
 
 ## Results
 Generated plots include:
-- Confusion Matrix (`confusion_matrix_logisticreg.png`)
-- ROC Curve (`roc_curve_logisticreg.png`)
-- Precision-Recall Curve (`prc_logisticreg.png`)
+- Confusion Matrix
+![confusion_matrix_logisticreg](https://github.com/user-attachments/assets/764b30e3-b423-4ad8-8ef0-87db7bdd7b14)
+
+- ROC Curve
+![roc_curve_logisticreg](https://github.com/user-attachments/assets/d4eae761-6ba3-4d3a-87bf-942100d12384)
+
+- Precision-Recall Curve
+![prc_logisticreg](https://github.com/user-attachments/assets/b458afc8-4593-41bb-8c5b-a36e1d65611a)
+
 
 ## Running the Project
 1. Load the dataset (`Pokemon.csv`).
